@@ -1,4 +1,8 @@
+[ARCHIVED]
 # Nukkit-Dzialki
+
+Plugin stworzony do Minecraft Education Edition, aby ułatwić prowadzenie eventu świątecznego dla dzieci.
+
 ## Wszystko czego potrzeba do stworzenia świata z działkami
 
 
